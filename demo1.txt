@@ -3,3 +3,7 @@ CSE-A welcome to git family
 CSE-A welcome to git family 
 CSE-A welcome to git family 
 CSE-A welcome to git family 
+
+
+
+we have seen till now 4 commands in git
